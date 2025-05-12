@@ -1,6 +1,6 @@
 Assignment 2 for MAFS 5370
 Work by 
-Leung Ching Fung
+Leung Ching Fung,
 Au Man Yi Sigmund
 
 Note:
